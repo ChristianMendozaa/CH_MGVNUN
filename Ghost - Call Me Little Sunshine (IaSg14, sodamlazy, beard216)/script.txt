@@ -1,0 +1,64 @@
+# [ti:Call Me Little Sunshine]
+# [ar:Ghost]
+# [al:IMPERA]
+# [by:IaSg14, sodamlazy, beard216]
+54795	1706	text	Call out in the middle of the night
+58886	3411	text	For when else would I hear you?
+65705	1705	text	Fall out in the cold starlight
+69795	3070	text	I can save you if you do
+74909	1195	text	You will never walk alone
+77636	1024	text	You can always reach me
+80023	1535	text	You will never ever walk alone
+84455	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+87523	1365	text	Little Sunshine
+89909	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+91614	3069	text	Call me Mephistopheles
+95364	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+97068	2047	text	When you feel all alone
+100136	1706	text	Just call me (<i>Call</i> <i>me</i>)
+103205	2046	text	Little Sunshine
+120250	1706	text	Light up in the middle of the day
+124341	3410	text	For how else could you see me?
+131159	1706	text	Ease up to the hunter from the prey
+135250	3070	text	And transform indefinitely
+140364	1194	text	You will never walk alone
+143091	1024	text	You can always reach me
+145477	1536	text	You will never ever walk alone
+149909	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+152977	1365	text	Little Sunshine
+155364	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+157068	3070	text	Call me Mephistopheles
+160818	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+162523	2047	text	When you feel all alone
+165591	1706	text	Just call me (<i>Call</i> <i>me</i>)
+168659	2047	text	Little Sunshine
+194909	1195	text	You will never walk alone
+197523	1137	text	You can always reach me
+199909	1649	text	You will never ever walk alone
+205818	1195	text	You will never walk alone
+208545	1025	text	You can always reach me
+210932	1535	text	You will never ever walk alone
+216727	1195	text	You will never walk alone
+219454	1025	text	You can always reach me
+221841	1535	text	You will never ever walk alone
+227636	1195	text	Even when you're dead and gone
+230364	1024	text	You can always reach me
+233091	2388	text	All you gotta do is call me
+236841	683	text	Call me
+239909	1024	text	Call me (<i>Call</i> <i>me</i>)
+242977	1365	text	Little Sunshine
+245364	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+247068	3070	text	Call me Mephistopheles
+250818	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+252523	2047	text	When you feel all alone
+255591	1706	text	Just call me (<i>Call</i> <i>me</i>)
+258659	2047	text	Little Sunshine
+261727	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+264795	1365	text	Little Sunshine
+267182	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+268886	3070	text	Call me Mephistopheles
+272636	1024	text	<i>Call</i> <i>me</i> (<i>Call</i> <i>me</i>)
+274341	2047	text	When you feel all alone
+277409	1706	text	Just call me (<i>Call</i> <i>me</i>)
+280477	2047	text	Little Sunshine
+283545	343	text	<i>Call</i> <i>me</i>

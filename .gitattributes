@@ -1,0 +1,4 @@
+*.ini   text eol=lf
+*.chart text eol=lf
+*.txt   text eol=lf
+*.mid   text eol=lf

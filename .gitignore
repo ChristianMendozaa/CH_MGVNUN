@@ -1,0 +1,11 @@
+# Archivos basura del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales y de respaldo
+*.bak
+*.tmp
+
+# Medios que no quieres versionar
+*.mp4
